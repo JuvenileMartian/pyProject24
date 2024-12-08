@@ -1,11 +1,11 @@
-Unnamed: 0,shopping_mall,construction_year,area (sqm),location,store_count
-0,South Coast Plaza,1967,250000,Costa Mesa,270
-1,Westfield Valley Fair,1986,220000,Santa Clara,230
-2,The Grove,2002,56000,Los Angeles,140
-3,Westfield Century City,1964,133000,Los Angeles,200
-4,Beverly Center,1982,111000,Los Angeles,160
-5,Fashion Valley,1977,161000,San Diego,180
-6,Stanford Shopping Center,1956,120000,Palo Alto,140
-7,Glendale Galleria,1976,145000,Glendale,190
-8,Irvine Spectrum Center,1995,120000,Irvine,130
-9,Del Amo Fashion Center,1961,232000,Torrance,220
+shopping_mall,construction_year,area (sqm),location,store_count,lat,lon
+South Coast Plaza,1967,250000,Costa Mesa,270,33.691,-117.889
+Westfield Valley Fair,1986,220000,Santa Clara,230,37.3255,-121.9456
+The Grove,2002,56000,Los Angeles,140,34.0719,-118.3575
+Westfield Century City,1964,133000,Los Angeles,200,34.0587,-118.419
+Beverly Center,1982,111000,Los Angeles,160,34.0752,-118.3774
+Fashion Valley,1977,161000,San Diego,180,32.7681,-117.1667
+Stanford Shopping Center,1956,120000,Palo Alto,140,37.4435,-122.1713
+Glendale Galleria,1976,145000,Glendale,190,34.1463,-118.2568
+Irvine Spectrum,1995,120000,Irvine,130,33.65,-117.7437
+Del Amo Fashion Center,1961,232000,Torrance,220,33.8311,-118.3494
